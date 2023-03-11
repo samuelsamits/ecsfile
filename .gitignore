@@ -1,0 +1,8 @@
+/docker test
+/docker test2
+/docker test3
+/Dockerfile
+/FROM centos.dockerfile
+/FROM myimage.dockerfile
+/test.py
+ecsfile/ecs_index.txt
